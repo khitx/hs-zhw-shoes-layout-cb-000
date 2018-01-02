@@ -23,8 +23,6 @@ body {
 
 h2 {
 	margin-bottom: 5px; /* kh changed from 5px */
-	line-height: 1;	/* kh added */
-	height: 1; /* kh added */
 	margin-top: 0px; /* kh added */
 }
 
