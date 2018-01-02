@@ -37,5 +37,6 @@
 
 .col-3 {
   display: inline-block;
+  width: 32%;
   margin: auto;
 }
