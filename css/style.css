@@ -22,20 +22,20 @@ body {
 }
 
 h2 {
-	margin-bottom: 5px; /* kh changed from 5px */
-	line-height: 1;	/* kh added */
-	height: 1; /* kh added */
-	margin-top: 0px; /* kh added */
+	margin-bottom: 5px;
+	line-height: 1;
+	height: 1;
+	margin-top: 0px;
 }
 
 h3 {
-	margin-bottom: 5px; /* kh changed from 5px */
-	line-height: 1;	/* kh added */
-	height: 1; /* kh added */
+	margin-bottom: 5px;
+	line-height: 1;
+	height: 1;
 }
 
 ul, ol {
-	margin-bottom: 0px;	/* kh changed from 10px */
+	margin-bottom: 0px;	
 }
 
 li {
