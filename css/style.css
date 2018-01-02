@@ -23,8 +23,8 @@ body {
 
 h2, h3 {
 	margin-bottom: 0px; /* kh changed from 5px */
-	line-height: .5em;	/* kh added */
-	height: 1em; /* kh added */
+	line-height: 1;	/* kh added */
+	height: 1; /* kh added */
 }
 
 ul, ol {
