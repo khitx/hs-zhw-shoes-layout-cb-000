@@ -37,8 +37,9 @@
 }
 
 .col-3 {
-  display: inline-block;
-  width: 32%;
-  margin: 2,2,2,0;
   background: #220000;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
 }
