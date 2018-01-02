@@ -10,7 +10,7 @@
 }
 
 .clearfix:after {
-  content: ".";
+  content: "Hello";
   display: block;
   clear: both;
   /*visibility: hidden;
