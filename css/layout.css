@@ -24,16 +24,16 @@
 
 /* Posititoning Classes */
 
-.col-1 {
+.shadow p {
   float: left;
   width: 32%;
 }
 
-.col-2 {
+.shadow figure {
   float: left;
   width: 66%;
 }
 
 .col-3 {
-  
+
 }
